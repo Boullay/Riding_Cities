@@ -125,6 +125,7 @@ p {
 
 .whiteContentSection h2,
 .whiteContentSection h3,
+.whiteContentSection span,
 .whiteContentSection p {
 	color:  white;
 }
